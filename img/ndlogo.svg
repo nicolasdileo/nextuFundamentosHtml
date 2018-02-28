@@ -1,0 +1,16 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>ndlogo</title>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_1" fill="#FF0000"/>
+  <polygon id="svg_2" fill="#FF0000"/>
+  <polygon id="svg_3" fill="#FF0000"/>
+  <polygon id="svg_4" fill="#FF0000"/>
+  <polygon id="svg_5" fill="#FF0000"/>
+  <polygon id="svg_6" fill="#FF0000" points="282.56710053890134,289 282.1752437040397,289.5393446629166 281.5412060265096,289.3333333333333 281.5412060265096,288.6666666666667 282.1752437040397,288.4606553370834 282.56710053890134,289 " stroke-width="5"/>
+  <polygon id="svg_7" fill="#FF0000"/>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="100.825884" y="160.888889" id="svg_10" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(5.627519607543945,0,0,4.5,-419.5135744214058,-577.5) ">ND</text>
+  <ellipse fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="149" cy="111" id="svg_11" rx="117" ry="107" fill-opacity="0" stroke="#000000"/>
+ </g>
+</svg>
